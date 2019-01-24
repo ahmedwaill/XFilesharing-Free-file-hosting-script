@@ -1,7 +1,7 @@
 XFileSharing FREE script installation (Jan 2010)
 
 Requirements:
-* Perl higher than 5.005 version 	[http://www.perl.com/download.csp]
+* Perl higher than 5.005 version 	[http://www.perl.org/download.csp]
 * MySQL database                        [http://www.mysql.com]
 * Apache mod_rewrite module
 * .htaccess files support	 	[http://www.tutorio.com/tutorial/enable-mod-rewrite-on-apache]
